@@ -1,0 +1,2 @@
+
+Hierarchical inheritance involves a central or base class from which multiple subclasses are derived. The base class holds common attributes and behaviors shared among all derived classes. Each subclass inherits from this same base class but may introduce additional attributes or behaviors specific to that particular subclass.
