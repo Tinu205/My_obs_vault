@@ -16,7 +16,7 @@
     
     - Simplifying complex systems by modeling classes based on the essential properties and behaviors they share. Abstraction hides the unnecessary details and highlights the essential features.
      
-5. **Constructor and Destructor:**
+5. [[Constructors and destructors]] 
      - **Constructor:** A special method that gets called when an object is created. It initializes the object's attributes.
      - **Destructor:** A special method that gets called when an object is destroyed or goes out of scope. It cleans up resources and performs necessary actions.
      
